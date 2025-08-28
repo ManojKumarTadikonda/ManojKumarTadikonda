@@ -23,10 +23,16 @@
 
 ---
 
-### 🏆 GitHub Trophies
+### 🔥 GitHub Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manojkumartadikonda&theme=algolia" />
+  <a href="https://github.com/users/ManojKumarTadikonda/achievements/yolo">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="100" height="100" />
+  </a>
+  <a href="https://github.com/users/ManojKumarTadikonda/achievements/pull-shark">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100" height="100" />
+  </a>
 </p>
+
 
 ---
 
