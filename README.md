@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manoj Kumar Tadikonda</h1>
 <h3 align="center">
-🚀 Full Stack & Mobile App Developer | SIH 2024 National Winner | ML & AI Enthusiast 🇮🇳
+🚀 Full Stack Developer | SIH 2024 National Winner | ML & AI Enthusiast 🇮🇳
 </h3>
 
 <p align="center">
