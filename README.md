@@ -20,7 +20,7 @@ I was a **National Winner at Smart India Hackathon (SIH) 2024**, where I contrib
 - 🌱 Exploring **AI/ML integration**, backend architecture, and scalable systems
 - 🤝 Open to collaboration on **Full Stack, Mobile App, and AI-driven projects**
 - 📫 Reach me at: **manojtadikonda5@gmail.com**
-- 📄 Resume: [View Resume](https://drive.google.com/file/d/1sNokBRGAQMk3SYtdOCdWCKD4iGLbs8HM/view?usp=sharing](https://drive.google.com/file/d/1TD-9IVeOfV7wJN10nHyu5uoiSK877Y8N/view?usp=sharing)
+- 📄 Resume: [View Resume](https://drive.google.com/file/d/1TD-9IVeOfV7wJN10nHyu5uoiSK877Y8N/view?usp=sharing)
 
 ---
 
